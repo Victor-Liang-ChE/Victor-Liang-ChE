@@ -1,4 +1,4 @@
-<h1 align="center"> Hi!, I'm Victor Liang </h1>
+<h1 align="center"> Hi! I'm Victor Liang </h1>
 
 <h3 align="center"> 🧪 Chemical Engineering Simulation & Modeling Specialist </h3>
 - 🎓 **4th Year Chemical Engineering Student** @ UCSB  <br><br>
