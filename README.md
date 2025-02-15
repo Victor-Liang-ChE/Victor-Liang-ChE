@@ -1,6 +1,6 @@
 <h1 align="center"> Hi!, I'm Victor Liang </h1>
 
-<h3 align="center"> 🧪 Chemical Engineering Enthusiast </h3>
+<h3 align="center"> 🧪 Chemical Engineering Simulation & Modeling Specialist </h3>
 - 🎓 **4th Year Chemical Engineering Student** @ UCSB  <br><br>
 - 📚 **Pursuing a Masters in Materials Science** @ UCSB Next Year  <br><br>
 - 🛠 **Developing Interactive Graphs & Tools** for Chemical Engineering Applications  <br><br>
@@ -17,7 +17,7 @@
 
 <!-- Add dash, plotly, and google cloud run -->
 ## 💻 Coding Languages, Frameworks, and Packages  
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="50" height="50"/>  
