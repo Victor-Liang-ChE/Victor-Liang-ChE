@@ -10,9 +10,9 @@
 - 🚀 See My Projects: [victorliang.com](https://victorliang.com/)&nbsp; <br><br>
 - ✉️ Reach Me: [victorl1725@gmail.com](mailto:victorl1725@gmail.com)&nbsp;&nbsp;
 
-## 🌐 Connect with Me&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/victor-liang-567238231/" style="text-decoration: none;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width="30" height="30">
+## 🌐 Connect with Me  
+<a href="https://www.linkedin.com/in/victor-liang-567238231/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width="30" height="30">
 </a>
 
 ## 💻 Coding Languages, Frameworks, and Packages&nbsp;&nbsp;
