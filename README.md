@@ -12,7 +12,7 @@
 
 ## 🌐 Connect with Me  
 <a href="https://www.linkedin.com/in/victor-liang-567238231/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width="30" height="30">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width="40" height="40">
 </a>
 
 ## 💻 Coding Languages, Frameworks, and Packages&nbsp;&nbsp;
