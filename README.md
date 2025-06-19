@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! I'm Victor Liang </h1>
 
-<h3 align="center"> 🧪 Chemical Engineering Optimization & Predictive Modeling Specialist </h3>
+<h3 align="center"> 🧪 Chemical Engineering Optimization & Predictive Modeling Enthusiast </h3>
 - 🎓 <strong>4th Year Chemical Engineering Student</strong> @ UCSB&nbsp; <br><br>
 - 📚 <strong>Pursuing a Masters in Materials Science</strong> @ UCSB Next Year&nbsp; <br><br>
 - 🛠 <strong>Developing Interactive Graphs & Tools</strong> for Chemical Engineering Applications&nbsp; <br><br>
